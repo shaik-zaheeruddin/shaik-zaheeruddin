@@ -91,18 +91,8 @@
 <!--   ### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-zaheeruddin)
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12786680) 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_m_k_s_s) 
-  
- 
-<!-- THE SNAKE GAME
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-zaheeruddin-252405217)
 
-<a href="#">
-  <img width=100% src="https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg"/>
-</a>
-
--->
   
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
